@@ -6,6 +6,6 @@ export default Ember.Route.extend({
       { text: "Create Ember App" },
       { text: "Read Ember Igniter" },
       { text: "Master Ember"}
-    ]
+    ];
   }
 });
